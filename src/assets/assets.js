@@ -13,6 +13,10 @@ import message_icon from './message_icon.png'
 import code_icon from './code_icon.png'
 import send_icon from './send_icon.png'
 import gemini_icon from './gemini_icon.png'
+import health_icon from './health_icon.png'
+import scientific_icon from './scientific_icon.png'
+import finance_icon from './finance_icon.png'
+import  movie_icon from './movie_icon.png'
 
 export const assets = {
     history_icon,
@@ -29,5 +33,9 @@ export const assets = {
     message_icon,
     code_icon,
     send_icon,
-    gemini_icon
+    gemini_icon,
+    health_icon,
+    scientific_icon,
+    finance_icon,
+    movie_icon
 }
