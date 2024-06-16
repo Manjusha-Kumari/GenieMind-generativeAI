@@ -6,7 +6,7 @@ const Main = () => {
   return (
     <div className='main'>
         <div className="nav">
-            <p>Gemini</p>
+            <p>GenieMind</p>
             <img src={assets.user_icon} alt="" />
         </div>
 
@@ -44,7 +44,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className="bottom-info">
-                    Astrological readings, including those for Gemini, are based on interpretations and observations. Results may vary, and predictions may not always be accurate.
+                    Astrological readings, including those for GenieMind, are based on interpretations and observations. Results may vary, and predictions may not always be accurate.
                 </p>
             </div>
         </div>
