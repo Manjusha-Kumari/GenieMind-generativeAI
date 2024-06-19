@@ -17,7 +17,6 @@ import health_icon from './health_icon.png'
 import scientific_icon from './scientific_icon.png'
 import finance_icon from './finance_icon.png'
 import  movie_icon from './movie_icon.png'
-import GeniMind_icon from './GeniMind_icon.png'
 
 export const assets = {
     history_icon,
@@ -38,6 +37,5 @@ export const assets = {
     health_icon,
     scientific_icon,
     finance_icon,
-    movie_icon,
-    GeniMind_icon
+    movie_icon
 }
